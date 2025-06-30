@@ -2,7 +2,7 @@
 
 A simple and user-friendly web-based kitchen timer built with HTML, CSS, and JavaScript. Perfect for keeping track of cooking or other timed tasks.
 
-![Responsive Design](images/Dimensions_responsive.png)
+![Responsive Design](Screenshots/Responsive.PNG)
 
 ## ✨ Features
 
