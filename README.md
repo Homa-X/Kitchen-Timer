@@ -1,71 +1,54 @@
-# ⏲️ Kitchen Timer
+# 🍳 Kitchen Timer
 
-A simple and user-friendly **web-based kitchen timer** designed to help you keep track of time while cooking or performing other tasks. Built with **HTML**, **CSS**, and **JavaScript**.
+A simple and user-friendly web-based kitchen timer built with HTML, CSS, and JavaScript. Perfect for keeping track of cooking or other timed tasks.
 
----
-
-![Chrome Lighthouse](images/Lighthouse.png)
-
----
+![Responsive Design](images/Dimensions_responsive.png)
 
 ## ✨ Features
 
-- **Responsive Design:** The timer interface adapts smoothly to different screen sizes, perfect for both desktop and mobile devices.  
-- **Flexible Input:** Enter any number of hours, minutes, and seconds — the timer automatically converts your input into the correct format.  
-- **Alarm Notification:** When the timer reaches zero, a clear alarm sound will notify you.
+- **Responsive Design:** Works smoothly on both desktop and mobile devices.
+- **Flexible Input:** Enter any number of hours, minutes, and seconds; the timer converts and handles the input correctly.
+- **Alarm:** A sound alarm plays when the timer reaches zero.
+- **Controls:** Start, pause, reset, and stop alarm functionalities.
 
----
+## 🚀 How to Use
 
-![Am I responsive](images/Dimensions_responsive.png)
+1. Open the `index.html` file in your preferred web browser.
+2. Input desired hours, minutes, and seconds.
+3. Click **Start** to begin the countdown.
+4. Use **Pause**, **Reset**, or **Stop Alarm** buttons as needed.
 
----
+## 📂 Project Structure
 
-## ▶️ How to Use
+- `index.html` – The main HTML page.
+- `styles.css` – CSS for styling the timer interface.
+- `script.js` – JavaScript code handling timer logic and user interactions.
 
-1. Open the `index.html` file in your favorite web browser.  
-2. Input the desired **hours**, **minutes**, and **seconds** in the respective fields.  
-3. Click the **Start** button to begin the countdown.  
-4. Use the **Pause**, **Reset**, or **Stop Alarm** buttons as needed.
+## 🧪 Tested On
 
----
-
-## 🗂️ Project Structure
-
-- `index.html`: Main HTML file that holds the timer’s structure.  
-- `styles.css`: CSS file for styling the timer interface.  
-- `script.js`: JavaScript file handling the timer logic and user interactions.
-
----
-
-## 🧪 Browser Testing
-
-This project has been tested and works well on these browsers:  
 - Google Chrome  
 - Mozilla Firefox  
 - Microsoft Edge  
 
-Simply open `index.html` in your preferred browser and try out the timer.
-
----
+Simply open `index.html` on any of these browsers to test the timer.
 
 ## 🐞 Known Issues
 
-Currently, there are no known bugs. If you find any, please report them in the project’s issue tracker.
-
----
+Currently, no known bugs. If you find any, please open an issue in the repository.
 
 ## ✅ Validation
 
-Both the HTML and CSS files have passed validation with no errors or warnings using the [W3C Markup Validation Service](https://validator.w3.org/).
+HTML and CSS files have been validated via [W3C Validator](https://validator.w3.org/) with no errors or warnings.
+
+## ⚠️ Note
+
+This project is for educational purposes only and not intended for commercial use.
+
+## 👨‍💻 Author
+
+Created by Homayoun Khanmohammadi. All rights reserved.
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is built for **educational purposes only** and is **not intended for commercial use**.
-
----
-
-## 🙌 Credits
-
-This web application was entirely created by **Homayoun Khanmohammadi**. All rights reserved.
+🔗 [Live Demo](https://homa-x.github.io/Kitchen-Timer/)  
+🔗 [GitHub Repository](https://github.com/Homa-X/Kitchen-Timer)
